@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myruldeen
-- 👀 I’m interested in iot and mobile development
+- 👀 I’m interested in iot and web development
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on iot development
 - 📫 How to reach me funstudy10@gmail.com
