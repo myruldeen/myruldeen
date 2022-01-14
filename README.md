@@ -29,6 +29,7 @@ I am Myrul Deen, people call me Deen, currently pursuing my bachelor's degree ma
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino?style=flat-square&logo=Arduino)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=myruldeen&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myruldeen&hide=TeX&layout=compact)
