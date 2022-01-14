@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Myrul Deen, people call me Deen, currently pursuing my bachelor's degree majoring in Information Technology from [Universiti Selangor](https://unisel.edu.my/). I am a tech enthusiast & an open-source lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Myrul Deen, people call me Deen, currently pursuing my bachelor's degree majoring in Information Technology from [Universiti Selangor](https://www.unisel.edu.my/). I am a tech enthusiast & an open-source lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rashideenzaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhd-amirul-rashideen-zaidi-65682015a/)](https://www.linkedin.com/in/muhd-amirul-rashideen-zaidi-65682015a/)
 [![Gmail Badge](https://img.shields.io/badge/-funstudy10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:funstudy10@gmail.com)](mailto:funstudy10@gmail.com)
