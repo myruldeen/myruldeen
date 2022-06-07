@@ -3,7 +3,7 @@
 myruldeen/myruldeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
 I am Myrul Deen, people call me Deen, currently pursuing my bachelor's degree majoring in Information Technology from [Universiti Selangor](https://www.unisel.edu.my/). I am a tech enthusiast & an open-source lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
