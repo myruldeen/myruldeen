@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-Hi, I'm Mirul — an IT Support professional and a graduate with a Bachelor's degree in Information Technology from Universiti Selangor. I'm a tech enthusiast and passionate about open-source technology. I'm always open to collaborating on projects, especially those involving innovative or disruptive ideas. Learn more about me and feel free to connect with me here:
+Hi, I'm Mirul — an IT professional interested in open-source, networking, self-hosting, IoT, and building useful projects.
+connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rashideenzaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhd-amirul-rashideen-zaidi-65682015a/)](https://www.linkedin.com/in/muhd-amirul-rashideen-zaidi-65682015a/)
 [![Gmail Badge](https://img.shields.io/badge/-funstudy10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:funstudy10@gmail.com)](mailto:funstudy10@gmail.com)
